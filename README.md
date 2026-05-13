@@ -1,1 +1,42 @@
-![chrome_ycyvOJaxOR](https://github.com/gk9516/18CSC304J-CD/assets/103759838/d34e0c35-daf0-4eef-b313-247e2474ae2b)
+<div align="center">
+
+<pre>
+╔════════════╗
+║     💻  CD  💻     ║
+╚════════════╝
+</pre>
+
+## Project Repository
+
+
+
+</div>
+
+---
+
+## About
+
+A Python project repository. See the source code for details.
+
+---
+
+## Features
+
+- See source code for details
+
+---
+
+## Tech Stack
+
+_See source_
+
+---
+
+## Author
+
+**Ashish (Yami1106)**
+[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+
+---
+
+*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*

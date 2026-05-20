@@ -1,42 +1,31 @@
 <div align="center">
 
-<pre>
-╔════════════╗
-║     💻  CD  💻     ║
-╚════════════╝
-</pre>
+# Compiler Design
 
-## Project Repository
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 
-
+*Compiler Design coursework — lexical analysis, parsing, and code generation.*
 
 </div>
 
 ---
 
-## About
+## Topics
 
-A Python project repository. See the source code for details.
-
----
-
-## Features
-
-- See source code for details
+- Lexical analysis (tokenisation)
+- Context-free grammars and parsing (LL, LR)
+- Syntax-directed translation
+- Intermediate code generation
+- Symbol tables
 
 ---
 
-## Tech Stack
+## Tech stack
 
-_See source_
-
----
-
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`Java`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
